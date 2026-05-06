@@ -87,13 +87,13 @@ A responsive personal portfolio website built with **React** and **Vite**, deplo
 <p align="center">
     <a href="mailto:bhargavpavuluri13@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-bhargavpavuluri13-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>a>&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;
     <a href="tel:+14703544337">
           <img src="https://img.shields.io/badge/Phone-%2B1%20(470)%20354--4337-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-    </a>a>&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;
     <a href="https://bhargav-fullstack-dev.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-bhargav--fullstack--dev-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>a>
+    </a>
 </p>
 
 ---
