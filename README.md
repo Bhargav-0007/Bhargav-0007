@@ -83,7 +83,6 @@ A responsive personal portfolio website built with **React** and **Vite**, deplo
 
 
 <p align="center">
-    🌐 <a href="https://bhargav-fullstack-dev.vercel.app/" target="_blank">bhargav-fullstack-dev.vercel.app</a> &nbsp;|&nbsp;
     📧 <a href="mailto:bhargavpavuluri13@gmail.com">bhargavpavuluri13@gmail.com</a> &nbsp;|&nbsp;
     📱 +1 (470) 354-4337
 </p>
