@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:bhargavpavuluri13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:bhargavpavuluri13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/bhargav-pavuluri">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/bhargav-pavuluri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Bhargav-0007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Bhargav-0007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="tel:+14703544337">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ## 🎯 Professional Summary
 
-Results-driven **Java Full Stack Developer** with **4+ years** of enterprise experience architecting and delivering high-performance microservices and modern React.js frontends. Proven track record at **Wells Fargo** and **Optum**, building systems processing **500K+ requests/day** at **99.9% uptime**. 
+Results-driven **Java Full Stack Developer** with **4+ years** of enterprise experience architecting and delivering high-performance microservices and modern React.js frontends. Proven track record of driving technical excellence, mentoring engineering teams, and optimizing complex systems at scale.
 
 Deep expertise in:
 - ✅ Enterprise-grade microservices architecture (Spring Boot, Java 11)
@@ -106,12 +106,12 @@ Relevant Coursework: Advanced Algorithms, Distributed Systems, Cloud Computing, 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhargav-0007&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav-0007&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargav-0007&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav-0007&layout=compact&theme=dark" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhargav-0007&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhargav-0007&theme=dark" alt="GitHub Streak" height="170" />
 </p>
 
 ---
@@ -122,7 +122,7 @@ I'm passionate about **building scalable systems**, **mentoring teams**, and **s
 
 📧 **Email:** bhargavpavuluri13@gmail.com  
 📱 **Phone:** +1 (470)-354-4337  
-💼 **LinkedIn:** [linkedin.com/in/bhargav-pavuluri](https://linkedin.com/in/bhargav-pavuluri)  
+💼 **LinkedIn:** [linkedin.com/in/bhargav-pavuluri](https://www.linkedin.com/in/bhargav-pavuluri)  
 🐙 **GitHub:** [github.com/Bhargav-0007](https://github.com/Bhargav-0007)
 
 ---
