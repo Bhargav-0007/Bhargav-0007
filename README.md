@@ -75,9 +75,9 @@ A responsive personal portfolio website built with **React** and **Vite**, deplo
   style="display:inline-block; padding:10px 20px; background:#ffffff; color:#000000; border-radius:6px; font-weight:700; text-decoration:none;"
 >
   Portfolio
-</a>
-    📧 <a href="mailto:bhargavpavuluri13@gmail.com">bhargavpavuluri13@gmail.com</a> &nbsp;|&nbsp;
-    📱 +1 (470) 354-4337
+</a> &nbsp;|&nbsp;
+     <a href="mailto:bhargavpavuluri13@gmail.com">bhargavpavuluri13@gmail.com</a> &nbsp;|&nbsp;
+     +1 (470) 354-4337
 </p>
 
 ---
