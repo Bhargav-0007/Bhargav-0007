@@ -65,8 +65,5 @@ Results-driven **Java Full Stack Developer** with 4+ years of enterprise experie
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhargav-0007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center"><em>⭐ If you find my work interesting, feel free to connect! ⭐</em></p>
