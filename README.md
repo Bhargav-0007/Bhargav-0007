@@ -82,4 +82,16 @@ A responsive personal portfolio website built with **React** and **Vite**, deplo
 ---
 
 
+## 📬 Contact Me
+
+| | |
+|---|---|
+| 📧 **Email** | [bhargavpavuluri13@gmail.com](mailto:bhargavpavuluri13@gmail.com) |
+| 📱 **Phone** | +1 (470) 354-4337 |
+| 💼 **LinkedIn** | [linkedin.com/in/bhargav-pavuluri](https://www.linkedin.com/in/venu-bhargav-pavuluri-aabb6634b) |
+| 🐙 **GitHub** | [github.com/Bhargav-0007](https://github.com/Bhargav-0007) |
+| 🌐 **Portfolio** | [bhargav-fullstack-dev.vercel.app](https://bhargav-fullstack-dev.vercel.app/) |
+
+---
+
 <p align="center"><em>⭐  If you find my work interesting, feel free to connect! ⭐</em></p>
