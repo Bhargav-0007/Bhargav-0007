@@ -6,20 +6,12 @@
 
 <p align="center">
   <a
-    href="https://bhargav-fullstack-dev.vercel.app/"
-    target="_blank"
-    style="
-      padding: 10px 20px;
-      border: 1px solid white;
-      border-radius: 6px;
-      color: white;
-      text-decoration: none;
-      font-weight: 600;
-      display: inline-block;
-    "
-  >
-    Portfolio
-  </a>
+  href="https://bhargav-fullstack-dev.vercel.app/"
+  target="_blank"
+  style="display:inline-block; padding:10px 20px; background:#ffffff; color:#000000; border-radius:6px; font-weight:700; text-decoration:none;"
+>
+  Portfolio
+</a>
   <a href="https://www.linkedin.com/in/venu-bhargav-pavuluri-aabb6634b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
