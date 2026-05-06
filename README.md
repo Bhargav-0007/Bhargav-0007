@@ -8,7 +8,15 @@
   <a
     href="https://bhargav-fullstack-dev.vercel.app/"
     target="_blank"
-    class="px-5 py-2 bg-transparent border border-white text-white rounded-md font-semibold hover:bg-white hover:text-black transition duration-300"
+    style="
+      padding: 10px 20px;
+      border: 1px solid white;
+      border-radius: 6px;
+      color: white;
+      text-decoration: none;
+      font-weight: 600;
+      display: inline-block;
+    "
   >
     Portfolio
   </a>
