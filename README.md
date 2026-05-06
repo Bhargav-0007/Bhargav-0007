@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-   <a
+  <a
     href="https://bhargav-fullstack-dev.vercel.app/"
     target="_blank"
-    class="bg-white text-black px-5 py-2 rounded-md font-semibold hover:scale-105 transition"
+    class="px-5 py-2 bg-transparent border border-white text-white rounded-md font-semibold hover:bg-white hover:text-black transition duration-300"
   >
     Portfolio
   </a>
