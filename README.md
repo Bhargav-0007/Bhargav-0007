@@ -5,13 +5,6 @@
 </p>
 
 <p align="center">
-  <a
-  href="https://bhargav-fullstack-dev.vercel.app/"
-  target="_blank"
-  style="display:inline-block; padding:10px 20px; background:#ffffff; color:#000000; border-radius:6px; font-weight:700; text-decoration:none;"
->
-  Portfolio
-</a>
   <a href="https://www.linkedin.com/in/venu-bhargav-pavuluri-aabb6634b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -76,6 +69,13 @@ A responsive personal portfolio website built with **React** and **Vite**, deplo
 
 
 <p align="center">
+    <a
+  href="https://bhargav-fullstack-dev.vercel.app/"
+  target="_blank"
+  style="display:inline-block; padding:10px 20px; background:#ffffff; color:#000000; border-radius:6px; font-weight:700; text-decoration:none;"
+>
+  Portfolio
+</a>
     📧 <a href="mailto:bhargavpavuluri13@gmail.com">bhargavpavuluri13@gmail.com</a> &nbsp;|&nbsp;
     📱 +1 (470) 354-4337
 </p>
