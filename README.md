@@ -5,14 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:bhargavpavuluri13@gmail.com?subject=Hello%20Bhargav&body=Hi%20Bhargav%2C" target="_blank">
+  <a href="mailto:bhargavpavuluri13@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/venu-bhargav-pavuluri-aabb6634b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Bhargav-0007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -54,7 +51,7 @@ Results-driven **Java Full Stack Developer** with 4+ years of enterprise experie
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+If you find my work
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -62,6 +59,27 @@ Results-driven **Java Full Stack Developer** with 4+ years of enterprise experie
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+## 🚀 Featured Projects
+
+### 🛒 [Appkhila — E-Commerce App](https://github.com/Bhargav-0007/ecommerce-app)
+A modern, full-featured e-commerce web application built with **React 18**, **TypeScript**, **Tailwind CSS**, and **Zustand** for state management. Features include product catalog with filters, shopping cart, user authentication, and a full checkout flow.
+
+**Tech Stack:** React · TypeScript · Vite · Tailwind CSS · Zustand · Node.js · SQLite
+
+---
+
+### 📚 [Library Management System API](https://github.com/Bhargav-0007/library_management_system)
+A production-grade **Spring Boot REST API** for managing a library — books, authors, members, loans, and fines. Features JWT authentication, role-based access control (ADMIN, LIBRARIAN, MEMBER), overdue tracking, fine calculation, and full Swagger documentation.
+
+**Tech Stack:** Java 17 · Spring Boot · Spring Security · JWT · JPA/Hibernate · MySQL · PostgreSQL · Flyway · Swagger
+
+---
+
+### 🌐 [Personal Portfolio Website](https://github.com/Bhargav-0007/Portfolio)
+A responsive personal portfolio website built with **React** and **Vite**, deployed live at [bhargav-fullstack-dev.vercel.app](https://bhargav-fullstack-dev.vercel.app/).
+
+**Tech Stack:** React · JavaScript · Vite · CSS
 
 ---
 
