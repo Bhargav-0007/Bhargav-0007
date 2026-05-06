@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://bhargav-fullstack-dev.vercel.app/" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
-    alt="Portfolio" 
-  />
-</a>
-&nbsp;|&nbsp;
+   <a
+    href="https://bhargav-fullstack-dev.vercel.app/"
+    target="_blank"
+    class="bg-white text-black px-5 py-2 rounded-md font-semibold hover:scale-105 transition"
+  >
+    Portfolio
+  </a>
   <a href="https://www.linkedin.com/in/venu-bhargav-pavuluri-aabb6634b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
