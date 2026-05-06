@@ -51,7 +51,7 @@ Results-driven **Java Full Stack Developer** with 4+ years of enterprise experie
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-If you find my work
+
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -84,4 +84,4 @@ A responsive personal portfolio website built with **React** and **Vite**, deplo
 ---
 
 
-<p align="center"><em>⭐ If you find my work interesting, feel free to connect! ⭐</em></p>
+<p align="center"><em>⭐  interesting, feel free to connect! ⭐</em></p>
