@@ -84,4 +84,4 @@ A responsive personal portfolio website built with **React** and **Vite**, deplo
 ---
 
 
-<p align="center"><em>⭐  interesting, feel free to connect! ⭐</em></p>
+<p align="center"><em>⭐  If you find my work interesting, feel free to connect! ⭐</em></p>
