@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:bhargavpavuluri13@gmail.com" target="_blank">
+  <a href="mailto:bhargavpavuluri13@gmail.com?subject=Hello%20Bhargav&body=Hi%20Bhargav%2C" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="http://www.linkedin.com/in/venu-bhargav-pavuluri-aabb6634b" target="_blank">
@@ -17,7 +17,7 @@
 
 ## 🎯 Professional Summary
 
-Results-driven **Java Full Stack Developer** with **4+ years** of enterprise experience architecting and delivering high-performance microservices and modern React.js frontends. Proven track record of driving technical excellence, mentoring engineering teams, and optimizing complex systems at scale.
+Results-driven **Java Full Stack Developer** with **4+ years** of enterprise experience architecting and delivering high-performance microservices and modern React.js frontends. Proven track record of delivering mission-critical solutions in fast-paced environments.
 
 Deep expertise in:
 - ✅ Enterprise-grade microservices architecture (Spring Boot, Java 11)
