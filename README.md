@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bhargav Pavuluri 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer | 4+ Years Experience | Enterprise Microservices & Cloud-Native Architecture</em>
+  <em>Full Stack Developer | Enterprise Microservices & Cloud-Native Architecture</em>
 </p>
 
 <p align="center">
