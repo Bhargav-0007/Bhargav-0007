@@ -14,7 +14,7 @@
 
 ## 🎯 Professional Summary
 
-Results-driven **Java Full Stack Developer** with 4+ years of enterprise experience architecting and delivering high-performance microservices and modern React.js frontends.
+Results-driven **Java Full Stack Developer** with enterprise experience architecting and delivering high-performance microservices and modern React.js frontends.
 
 - ✅ Enterprise-grade microservices architecture (Spring Boot, Java 11)
 - ✅ Cloud-native deployments (AWS, Azure, Docker, Kubernetes)
